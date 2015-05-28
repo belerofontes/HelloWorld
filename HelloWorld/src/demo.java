@@ -8,7 +8,7 @@ public class demo {
 		// TODO Auto-generated method stub
 
 		
-		System.out.println("Primeiro teste do git no eclipse");
+		System.out.println("Primeiro teste do git no eclipse, com Paulo Oliveira");
 	}
 
 }
